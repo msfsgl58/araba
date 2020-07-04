@@ -1,2 +1,0 @@
-# araba
-Araba Blogu
